@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            (string FirstName, string LastName, string Login, int LoginLength, bool HasPet, int Age, string[] FavColors) User;
         }
     }
 }
